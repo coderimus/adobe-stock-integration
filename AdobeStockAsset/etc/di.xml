@@ -45,7 +45,7 @@
                         <item name="factory" xsi:type="object">Magento\AdobeStockAssetApi\Api\Data\CreatorInterfaceFactory</item>
                         <item name="fields" xsi:type="array">
                             <item name="creator_id" xsi:type="string">id</item>
-                            <item name="creator_name" xsi:type="string">name</item>
+                            <item name="creator_name" xsi:type="string">creator_name</item>
                         </item>
                     </item>
                     <item name="category" xsi:type="array">

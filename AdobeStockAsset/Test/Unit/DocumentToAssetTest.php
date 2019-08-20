@@ -81,7 +81,7 @@ class DocumentToAssetTest extends TestCase
                         'creator' =>
                             [
                                 'factory' => $this->creatorFactory,
-                                'fields' => ['creator_id' => 'id', 'creator_name' => 'name']
+                                'fields' => ['creator_id' => 'id', 'creator_name' => 'creator_name']
                             ],
                         'category' =>
                             [
